@@ -6,4 +6,4 @@ https://hackmd.io/kg_hxo3BRwWhbEOzZ7nT7w
 https://hackmd.io/I3IISWXhRXajY386sPcKdA
 
 ## 3. OP-TEE Array in CA & TA, Ex: sort & base64
-https://hackmd.io/QBzeHxxpS0Skm-EUtVeAZw
+https://hackmd.io/@JasonCheeeeen/SkZYYrjzt
